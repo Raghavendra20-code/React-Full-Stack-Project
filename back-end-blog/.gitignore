@@ -1,3 +1,3 @@
-node_module
-mongo-db-data
+/node_module
+/mongo-db-data
 credentials.json
